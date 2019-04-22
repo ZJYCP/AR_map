@@ -1,0 +1,433 @@
+Œƒº˛º– PATH ¡–±Ì
+æÌ–Ú¡–∫≈Œ™ CBA5-76CE
+D:.
+©¶  tree.txt
+©¶  
+©¿©§Animations
+©¶      Canvas1.controller
+©¶      yun.anim
+©¶      
+©¿©§Animator
+©¶      archtecture.controller
+©¶      
+©¿©§audio
+©¶      bgmusic.mp3
+©¶      dabazha.mp3
+©¶      Falcom Sound Team jdk - —Ù§¿§ﬁ§Í§À§∆∫Õ§‡√®.mp3
+©¶      fota.mp3
+©¶      fujiantulou.mp3
+©¶      guangzhouTower.mp3
+©¶      menggubao.mp3
+©¶      pingyao_gucheng.mp3
+©¶      Seori - Fall Road.mp3
+©¶      shanghaiTower.mp3
+©¶      taibei101.mp3
+©¶      tiananmeng.mp3
+©¶      zhongyinTower.mp3
+©¶      
+©¿©§Editor
+©¶  ©∏©§Vuforia
+©¶      ©¿©§CylinderTargetTextures
+©¶      ©¶  ©∏©§VuforiaMars_Images
+©¶      ©¶          authoringinfo.xml
+©¶      ©¶          RocketBooster.Body_scaled.jpg
+©¶      ©¶          RocketBooster.Top_scaled.jpg
+©¶      ©¶          
+©¶      ©¿©§Emulator
+©¶      ©¶      VuforiaEmulator.dat
+©¶      ©¶      VuforiaEmulator.xml
+©¶      ©¶      
+©¶      ©¿©§ForPrint
+©¶      ©¶  ©¿©§CylinderTarget
+©¶      ©¶  ©¶      cylinder_booster_A4.pdf
+©¶      ©¶  ©¶      cylinder_booster_USLetter.pdf
+©¶      ©¶  ©¶      
+©¶      ©¶  ©¿©§Emulator
+©¶      ©¶  ©¶      Emulator Ground Plane.pdf
+©¶      ©¶  ©¶      
+©¶      ©¶  ©¿©§ImageTargets
+©¶      ©¶  ©¶      target_images_A4.pdf
+©¶      ©¶  ©¶      target_images_USLetter.pdf
+©¶      ©¶  ©¶      
+©¶      ©¶  ©¿©§ModelTarget
+©¶      ©¶  ©¶      readme_3dprint.txt
+©¶      ©¶  ©¶      
+©¶      ©¶  ©¿©§MultiTarget
+©¶      ©¶  ©¶      mars_box_A4.pdf
+©¶      ©¶  ©¶      mars_box_USLetter.pdf
+©¶      ©¶  ©¶      
+©¶      ©¶  ©¿©§ObjectTarget
+©¶      ©¶  ©¶      mars_habitat_A4.pdf
+©¶      ©¶  ©¶      mars_habitat_USLetter.pdf
+©¶      ©¶  ©¶      
+©¶      ©¶  ©∏©§VuMark
+©¶      ©¶          MarsVuMark_1.pdf
+©¶      ©¶          MarsVuMark_2.pdf
+©¶      ©¶          MarsVuMark_3.pdf
+©¶      ©¶          MarsVuMark_4.pdf
+©¶      ©¶          MarsVuMark_5.pdf
+©¶      ©¶          MarsVuMark_6.pdf
+©¶      ©¶          MarsVuMark_7.pdf
+©¶      ©¶          MarsVuMark_8.pdf
+©¶      ©¶          MarsVuMark_9.pdf
+©¶      ©¶          
+©¶      ©¿©§ImageTargetTextures
+©¶      ©¶  ©¿©§armap
+©¶      ©¶  ©¶      1_scaled.jpg
+©¶      ©¶  ©¶      2_scaled.jpg
+©¶      ©¶  ©¶      3_scaled.jpg
+©¶      ©¶  ©¶      beijing_img_scaled.jpg
+©¶      ©¶  ©¶      beijing_scaled.jpg
+©¶      ©¶  ©¶      fujian2_scaled.jpg
+©¶      ©¶  ©¶      fujian_img_scaled.jpg
+©¶      ©¶  ©¶      fujian_scaled.jpg
+©¶      ©¶  ©¶      guagndong_img_scaled.jpg
+©¶      ©¶  ©¶      guangdong2_scaled.jpg
+©¶      ©¶  ©¶      guangdong_scaled.jpg
+©¶      ©¶  ©¶      Hongkong_img_scaled.jpg
+©¶      ©¶  ©¶      hongkong_scaled.jpg
+©¶      ©¶  ©¶      map_target_scaled.jpg
+©¶      ©¶  ©¶      neimenggu_img_scaled.jpg
+©¶      ©¶  ©¶      Neimenggu_scaled.jpg
+©¶      ©¶  ©¶      shanghai2_scaled.jpg
+©¶      ©¶  ©¶      shanghai_img_scaled.jpg
+©¶      ©¶  ©¶      shanghai_scaled.jpg
+©¶      ©¶  ©¶      shanxi_img_scaled.jpg
+©¶      ©¶  ©¶      shanxi_scaled.jpg
+©¶      ©¶  ©¶      taiwan_img_scaled.jpg
+©¶      ©¶  ©¶      taiwan_scaled.jpg
+©¶      ©¶  ©¶      Tibet_img_scaled.jpg
+©¶      ©¶  ©¶      Tibet_scaled.jpg
+©¶      ©¶  ©¶      xinjiang_img_scaled.jpg
+©¶      ©¶  ©¶      xinjiang_scaled.jpg
+©¶      ©¶  ©¶      
+©¶      ©¶  ©¿©§VuforiaEmulator
+©¶      ©¶  ©¶      emulator_ground_plane_scaled.jpg
+©¶      ©¶  ©¶      
+©¶      ©¶  ©∏©§VuforiaMars_Images
+©¶      ©¶          Astronaut_scaled.jpg
+©¶      ©¶          Drone_scaled.jpg
+©¶      ©¶          Fissure_scaled.jpg
+©¶      ©¶          MarsBox.Back_scaled.jpg
+©¶      ©¶          MarsBox.Bottom_scaled.jpg
+©¶      ©¶          MarsBox.Front_scaled.jpg
+©¶      ©¶          MarsBox.Left_scaled.jpg
+©¶      ©¶          MarsBox.Right_scaled.jpg
+©¶      ©¶          MarsBox.Top_scaled.jpg
+©¶      ©¶          Oxygen_scaled.jpg
+©¶      ©¶          
+©¶      ©¿©§TargetsetData
+©¶      ©¶  ©¶  VuforiaMars_Object_info.xml
+©¶      ©¶  ©¶  
+©¶      ©¶  ©∏©§VuforiaMars_Object
+©¶      ©¶          80a921afee0341b991f24822f2a1e228_preview.jpg
+©¶      ©¶          
+©¶      ©¿©§VuforiaMars_ModelTarget
+©¶      ©¶      authoringinfo.xml
+©¶      ©¶      ddcf29fe83b64ee984697b36afc5e823_preview.jpg
+©¶      ©¶      
+©¶      ©∏©§VuforiaMars_VuMark
+©¶              authoringinfo.xml
+©¶              ec2533ebd7d84669b28886a4f32bc7ec_scaled.png
+©¶              
+©¿©§font
+©¶      ‘Ï◊÷π§∑ø‘√‘≤.otf
+©¶      
+©¿©§Models
+©¶  ©¿©§armap
+©¶  ©¶  ©¿©§dabaza
+©¶  ©¶  ©¶  ©¶  dabaza.controller
+©¶  ©¶  ©¶  ©¶  dabaza.fbx
+©¶  ©¶  ©¶  ©¶  dabazha.jpg
+©¶  ©¶  ©¶  ©¶  
+©¶  ©¶  ©¶  ©∏©§Materials
+©¶  ©¶  ©¶          dabazha.mat
+©¶  ©¶  ©¶          
+©¶  ©¶  ©¿©§fota
+©¶  ©¶  ©¶      fota.fbx
+©¶  ©¶  ©¶      fotaup.controller
+©¶  ©¶  ©¶      
+©¶  ©¶  ©¿©§GuangzhouTower
+©¶  ©¶  ©¶      xiaomanyao.controller
+©¶  ©¶  ©¶      xiaomanyao.fbx
+©¶  ©¶  ©¶      xmy.jpg
+©¶  ©¶  ©¶      xmycolor.jpg
+©¶  ©¶  ©¶      
+©¶  ©¶  ©¿©§pingyao
+©¶  ©¶  ©¶      guc.controller
+©¶  ©¶  ©¶      guc.fbx
+©¶  ©¶  ©¶      
+©¶  ©¶  ©¿©§Shanghai_Tower
+©¶  ©¶  ©¶  ©¶  dfmz.jpg
+©¶  ©¶  ©¶  ©¶  dfmzcolor.jpg
+©¶  ©¶  ©¶  ©¶  ShanghaiTower.controller
+©¶  ©¶  ©¶  ©¶  ShanghaiTower.fbx
+©¶  ©¶  ©¶  ©¶  
+©¶  ©¶  ©¶  ©∏©§Materials
+©¶  ©¶  ©¶          dfmzcolor.mat
+©¶  ©¶  ©¶          
+©¶  ©¶  ©¿©§taibei101
+©¶  ©¶  ©¶      taibei101.controller
+©¶  ©¶  ©¶      taibei101.fbx
+©¶  ©¶  ©¶      taibei101olor.jpg
+©¶  ©¶  ©¶      
+©¶  ©¶  ©¿©§Tiananmeng
+©¶  ©¶  ©¶      tiananmen.controller
+©¶  ©¶  ©¶      tiananmen.fbx
+©¶  ©¶  ©¶      tiananmen.jpg
+©¶  ©¶  ©¶      
+©¶  ©¶  ©¿©§tulou
+©¶  ©¶  ©¶  ©¶  fujiantulou.fbx
+©¶  ©¶  ©¶  ©¶  fujiantuloucolor.jpg
+©¶  ©¶  ©¶  ©¶  New Animator Controller.controller
+©¶  ©¶  ©¶  ©¶  
+©¶  ©¶  ©¶  ©∏©§Materials
+©¶  ©¶  ©¶          fujiantuloucolor.mat
+©¶  ©¶  ©¶          
+©¶  ©¶  ©¿©§zhangpeng
+©¶  ©¶  ©¶  ©¶  2fce1880.dds
+©¶  ©¶  ©¶  ©¶  test.fbx
+©¶  ©¶  ©¶  ©¶  test2.controller
+©¶  ©¶  ©¶  ©¶  test2.fbx
+©¶  ©¶  ©¶  ©¶  zhangshen.dds
+©¶  ©¶  ©¶  ©¶  
+©¶  ©¶  ©¶  ©∏©§Materials
+©¶  ©¶  ©¶          2fce1880.mat
+©¶  ©¶  ©¶          zhangshen.mat
+©¶  ©¶  ©¶          
+©¶  ©¶  ©∏©§zhongyinTower
+©¶  ©¶          zhongyindasha 1.fbx
+©¶  ©¶          zhongyindasha.controller
+©¶  ©¶          zyds.jpg
+©¶  ©¶          zydscolor.jpg
+©¶  ©¶          zydscolor2.jpg
+©¶  ©¶          
+©¶  ©∏©§VuforiaMars_ModelTarget
+©¶      ©∏©§ddcf29fe83b64ee984697b36afc5e823
+©¶          ©¶  Model.prefab
+©¶          ©¶  
+©¶          ©¿©§Materials
+©¶          ©¶      Material.asset
+©¶          ©¶      
+©¶          ©∏©§Meshes
+©¶                  mesh0.asset
+©¶                  mesh1.asset
+©¶                  
+©¿©§Musics
+©¶      Falcom Sound Team jdk - —Ù§¿§ﬁ§Í§À§∆∫Õ§‡√®.mp3
+©¶      Seori - Fall Road.mp3
+©¶      æ¡‘¬ª®∂˘”ÎÛ› - ≈˝≈√”Ô (π≈Û›∞Ê).mp3
+©¶      
+©¿©§Pictures
+©¶  ©¶  background.png
+©¶  ©¶  bg_v2.png
+©¶  ©¶  chuan.png
+©¶  ©¶  dibiao.png
+©¶  ©¶  ditu.png
+©¶  ©¶  ditu2.png
+©¶  ©¶  exit.png
+©¶  ©¶  help.png
+©¶  ©¶  jiazai.png
+©¶  ©¶  jiazai2.png
+©¶  ©¶  loadingBg.png
+©¶  ©¶  name.png
+©¶  ©¶  start 1.png
+©¶  ©¶  UI.png
+©¶  ©¶  wait.png
+©¶  ©¶  zong.png
+©¶  ©¶  ‘∆2.png
+©¶  ©¶  ‘∆3.png
+©¶  ©¶  ‘∆4.png
+©¶  ©¶  µÿÕºÕº±Í.png
+©¶  ©¶  
+©¶  ©¿©§V1
+©¶  ©∏©§yun
+©¶          yun1.png
+©¶          yun2.png
+©¶          yun3.png
+©¶          yun4.png
+©¶          yun5.png
+©¶          
+©¿©§Resources
+©¶      VuforiaConfiguration.asset
+©¶      
+©¿©§Scenes
+©¶      arscene.unity
+©¶      Load.unity
+©¶      UI.unity
+©¶      
+©¿©§Scripts
+©¶      Loading.cs
+©¶      MenuControl.cs
+©¶      modelcontr.cs
+©¶      UIcontrol.cs
+©¶      
+©¿©§Sprite
+©¶      Arrow.png
+©¶      background - wood.png
+©¶      Banner 2.png
+©¶      Banner.png
+©¶      Bar Background.png
+©¶      Bar.png
+©¶      Battle.png
+©¶      bg-01.jpg
+©¶      bg-02.jpg
+©¶      Button Blue A.png
+©¶      Button Blue B.png
+©¶      Button Plus.png
+©¶      Button Red A.png
+©¶      Button Red B.png
+©¶      Button Round Background 2.png
+©¶      Button Round Background.png
+©¶      Button Round Foreground Green.png
+©¶      Button Round Foreground.png
+©¶      Button Round.png
+©¶      Button X.png
+©¶      Button Yellow A.png
+©¶      Button Yellow B.png
+©¶      Character.png
+©¶      Controller.png
+©¶      Dialogue.png
+©¶      Engine.png
+©¶      frame - 1.png
+©¶      frame - 2.png
+©¶      Glow.png
+©¶      Heart.png
+©¶      Input Background Small.png
+©¶      Input Background.png
+©¶      inventory - 01.png
+©¶      inventory - 02.png
+©¶      inventory - 03.png
+©¶      inventory - 04.png
+©¶      inventory - 05.png
+©¶      inventory - 06.png
+©¶      Leave 2.png
+©¶      Leave 3.png
+©¶      Leave 4.png
+©¶      Leave 5.png
+©¶      Leave 6.png
+©¶      Leave 7.png
+©¶      Leave.png
+©¶      Level Up.png
+©¶      Lock.png
+©¶      Mail.png
+©¶      Ok.png
+©¶      Ornament.png
+©¶      People.png
+©¶      Play.png
+©¶      Portrait.png
+©¶      quest - bg.png
+©¶      quest - dialog.png
+©¶      quest - leave.png
+©¶      Replay.png
+©¶      Scroll.png
+©¶      Seperator.png
+©¶      Settings.png
+©¶      Shield.png
+©¶      Skull.png
+©¶      Slider Background.png
+©¶      Slot 2.png
+©¶      Slot.png
+©¶      Sound.png
+©¶      Star Center.png
+©¶      Star Left.png
+©¶      Star Right.png
+©¶      Star.png
+©¶      Stars Shadow.png
+©¶      Start Screen.png
+©¶      Switch Background.png
+©¶      Switch Off.png
+©¶      Switch On.png
+©¶      Sword Icon.png
+©¶      tab - normal.png
+©¶      tab - selected.png
+©¶      Tab Window.png
+©¶      Tab.png
+©¶      Thumb.png
+©¶      Thunder Icon.png
+©¶      Tick Background.png
+©¶      Tick.png
+©¶      Time.png
+©¶      Title 2.png
+©¶      Title.png
+©¶      Victory Banner.png
+©¶      Window Frame.png
+©¶      Window.png
+©¶      X.png
+©¶      µ•—≠ª∑ (2).png
+©¶      µ•—≠ª∑.png
+©¶      ≤•∑≈ (1).png
+©¶      ≤•∑≈.png
+©¶      ‘›Õ£ (1).png
+©¶      ‘›Õ£.png
+©¶      æ≤“Ù.png
+©¶      
+©¿©§StreamingAssets
+©¶  ©∏©§Vuforia
+©¶          armap.dat
+©¶          armap.xml
+©¶          VuforiaMars_Images.dat
+©¶          VuforiaMars_Images.xml
+©¶          VuforiaMars_ModelTarget.dat
+©¶          VuforiaMars_ModelTarget.xml
+©¶          VuforiaMars_Object_OT.dat
+©¶          VuforiaMars_Object_OT.xml
+©¶          VuforiaMars_VuMark.dat
+©¶          VuforiaMars_VuMark.xml
+©¶          
+©∏©§Vuforia
+    ©¶  version
+    ©¶  
+    ©¿©§Editor
+    ©¶  ©¿©§Scripts
+    ©¶  ©¶      OpenSourceInitializer.cs
+    ©¶  ©¶      
+    ©¶  ©∏©§VirtualButtonTextures
+    ©¶          VirtualButtonPreview.png
+    ©¶          VirtualButtonPreviewMaterial.mat
+    ©¶          
+    ©¿©§Fonts
+    ©¶      SourceSansPro.ttf
+    ©¶      
+    ©¿©§Materials
+    ©¶      CloudRecoTarget.mat
+    ©¶      ColoredLines.mat
+    ©¶      DefaultTarget.mat
+    ©¶      DepthMask.mat
+    ©¶      GroundPlaneIndicator.mat
+    ©¶      GroundPlaneReference.mat
+    ©¶      GuideView2D.mat
+    ©¶      MidAirIndicator.mat
+    ©¶      MidAirReference.mat
+    ©¶      OutlineOpaque.mat
+    ©¶      StandardCutout.mat
+    ©¶      UserDefinedTarget.mat
+    ©¶      
+    ©¿©§Prefabs
+    ©¶      DefaultMidAirIndicator.prefab
+    ©¶      DefaultPlaneIndicator.prefab
+    ©¶      GroundPlaneReference.prefab
+    ©¶      MidAirReference.prefab
+    ©¶      
+    ©¿©§Scripts
+    ©¶      DefaultInitializationErrorHandler.cs
+    ©¶      DefaultTrackableEventHandler.cs
+    ©¶      
+    ©¿©§Shaders
+    ©¶      BrightTexture.shader
+    ©¶      CameraDiffuse.shader
+    ©¶      ColoredLines.shader
+    ©¶      DepthContour.shader
+    ©¶      DepthMask.shader
+    ©¶      OutlineOpaque.shader
+    ©¶      Text3D.shader
+    ©¶      VertexLitWithZ.shader
+    ©¶      
+    ©∏©§Textures
+            CloudRecoTarget.png
+            GroundPlaneReference.png
+            MidAirReference.png
+            Reticle.png
+            UserDefinedTarget.png
+            VideoBackground.png
+            

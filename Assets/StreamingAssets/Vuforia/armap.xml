@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="shanxi_img" size="0.100000 0.124679" />
+    <ImageTarget name="xinjiang_img" size="0.100000 0.094272" />
+    <ImageTarget name="Tibet_img" size="0.100000 0.133571" />
+    <ImageTarget name="taiwan_img" size="0.100000 0.110591" />
+    <ImageTarget name="shanghai_img" size="0.100000 0.084703" />
+    <ImageTarget name="neimenggu_img" size="0.100000 0.068918" />
+    <ImageTarget name="Hongkong_img" size="0.100000 0.114392" />
+    <ImageTarget name="guagndong_img" size="0.100000 0.081895" />
+    <ImageTarget name="fujian_img" size="0.100000 0.082348" />
+    <ImageTarget name="beijing_img" size="0.100000 0.069130" />
+  </Tracking>
+</QCARConfig>
